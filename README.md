@@ -37,7 +37,7 @@ Project Modules
 Contributor Update
 
 Contributor Name:
-(Ilagay ang iyong pangalan)
+(BSIT BA 2C DACDAC)
 
 Feature Added:
 - Digital Library Dashboard
